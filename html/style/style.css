@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  vertical-align: top;
+  text-decoration: none;
+  border-collapse: collapse;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+li,
+ul,
+a,
+iol,
+img {
+  padding: 0;
+  margin: 0;
+}
+#header {
+  display: inline-block;
+  width: 100%;
+  padding: 15px 0;
+}
